@@ -1,5 +1,1 @@
-정말로?
-
 commit
-
-Pull Request가 뭔지 좀 감이 잡힌다. 
